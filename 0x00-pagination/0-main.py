@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 bob@dylan:~$ cat 0-main.py
+=======
+>>>>>>> acfbd2692e7756f9a7c08621de9fdc369e2e96b7
 #!/usr/bin/env python3
 """
 Main file
